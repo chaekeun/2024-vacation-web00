@@ -1,0 +1,51 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html2",
+      "body": "html2 is .."
+    },
+    {
+      "id": 2,
+      "title": "css4",
+      "body": "css4 is ..."
+    },
+    {
+      "title": "javascript4",
+      "body": "javascript4 is...",
+      "id": 3
+    },
+    {
+      "title": "java3",
+      "body": "java3 is...",
+      "id": 4
+    },
+    {
+      "title": "python2",
+      "body": "python is...2",
+      "id": 5
+    },
+    {
+      "title": "golang4",
+      "body": "golang4 is...",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
